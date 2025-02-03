@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(38, 233, 207);
+
+}
+.top{
+    text-align: center;
+    font-size: 48px;
+}
+.head{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 5%;
+}
+.stanza1{
+    text-align: center;
+    top: 15%;
+    font-size: larger;
+    font-weight: bolder;
+}
+.img{
+    text-align: center;
+}
+.stanza2{
+    text-align: center;
+    top: 15%;
+    font-size: larger;
+    font-weight: bolder;
+}
+.img2{
+    text-align: center;
+}
+.stanza3{
+    text-align: center;
+    top: 15%;
+    font-size: larger;
+    font-weight: bolder;
+}
+.img3{
+        text-align: center;
+        
+}
+.img3a{
+    border-radius: 15px;
+}
